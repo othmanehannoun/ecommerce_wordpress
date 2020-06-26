@@ -21,6 +21,6 @@ open http://localhost/wordpress/wp-admin
 ```
 enter the flowing information:
 ```
-UserName: othmanehann
+Username: othmanehann
 Password: root
 ```
