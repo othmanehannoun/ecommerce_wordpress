@@ -20,7 +20,14 @@ after that
 open http://localhost/wordpress/wp-admin
 ```
 enter the flowing information:
+
+Admin
 ```
 Username: othmanehann
 Password: root
+```
+Customer
+```
+username: othmanehannone697
+password: othmane.2020
 ```
