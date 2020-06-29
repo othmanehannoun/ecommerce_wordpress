@@ -28,6 +28,6 @@ Password: root
 ```
 Customer
 ```
-username: othmanehannone697
-password: othmane.2020
+username: othmaneSAFI
+password: hannSAFI@2001
 ```
